@@ -1,0 +1,25 @@
+.CustomCardTitleContainer {
+  display: flex;
+  gap: 5px;
+  width: 100%;
+}
+
+.CustomCardTitleContainerTexts {
+  display: flex;
+  gap: 20;
+  flex-grow: 5;
+}
+
+.CustomCardTitleContainerText {
+  align-self: center;
+}
+
+.CustomCardTitleContainerOptions {
+  display: flex;
+  justify-content: flex-end;
+  flex-grow: 1;
+}
+
+td{
+  vertical-align: middle;
+}
